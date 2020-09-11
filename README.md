@@ -1,4 +1,4 @@
-<!doctype html><html><head><title>보드게임의 일부분</title></head>
+
 
 <body><ol><li>디지털게임</li>
 <li><a href="index.html">아날로그게임</a></li>
@@ -13,7 +13,3 @@
 <p><strong>4.달무트 (우정파괴 게임)</strong><br>
 <img src="달무트.jpg" width="35%"></p>
 </ 본문 > </ html>
-012라는 닉네임을 쓰는 사람은 과연 누구일까?<br>
-그사람의 생년월일은 바로 7월달 <br>
-유튜브도 편집할 줄 아는 사람..! <br>
-취미:동갑인 친구들과 게임,롤,자전거,<<strong>미연시</strong>
