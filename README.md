@@ -1,5 +1,4 @@
-
-< 강함 >최영일</
+<strong>최영일</strong>
 
 <body><ol><li>디지털게임</li>
 <li><a href="index.html">아날로그게임</a></li>
